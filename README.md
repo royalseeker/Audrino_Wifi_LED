@@ -1,4 +1,4 @@
-# Audrino_Wifi_LED
+# Audrino+ESP8266_Wifi_LED 
 Control your LED Strips using Wifi with Audrino
 
 Thing Required to Setup...
